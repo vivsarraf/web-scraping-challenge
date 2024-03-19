@@ -1,4 +1,4 @@
-# web-scraping-challenge Module-11
+# Web-Scraping-challenge Module-11
 
 ### **INSTRUCTIONS**
 * Clone the repository to your local machine
@@ -42,8 +42,5 @@ the HTML code was extracted (with Beautiful Soup). (10 points)
 * The DataFrame was exported into a CSV file. (5 points)
 
 ### **RESOURCES**
-* Convert datetime to int: https://www.statology.org/pandas-convert-timedelta-to-int/ 
 
-* Pandas 'astype' method: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html 
-
-* Pandas 'to_datetime' method: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html?highlight=to_datetime#pandas.to_datetime 
+The Mars News websiteLinks to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars NewsLinks to an external site. website in November 2022. Images are used according to the JPL Image Use PolicyLinks to an external site., courtesy NASA/JPL-Caltech.
